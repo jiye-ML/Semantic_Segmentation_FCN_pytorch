@@ -1,0 +1,7 @@
+*.egg-info/
+*.py[cdo]
+
+build/
+dist/
+
+checkpoints/
